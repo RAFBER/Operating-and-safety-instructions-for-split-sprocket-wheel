@@ -12,11 +12,26 @@ aux_links:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: | 
-          "FLSmidth MAAG Gear Sp. z o.o.
-          ul. Stoczniowa 2  
-          Tel +48 55 881 11 11 • Faks +48 55 881 11 12
+footer_content: "FLSmidth MAAG Gear Sp. z o.o. <br />
+                 ul. Stoczniowa 2  <br />
+          Tel +48 55 881 11 11 • Faks +48 55 881 11 12 <br />
           mge@FLSmidthMaagGear.com • www.FLSmidthMaagGear.com"
 
-...
+---
+title: "Multi-line description set using Org Special Block (YAML)"
+description: >
+  Short description
+  of this post
 
+
+  **bold** -- _italics_ --- ~~strikethrough~~ `monospace`
+
+
+  These lines <br />
+  show up with line breaks <br />
+  but within the same paragraph.
+tags: ["front-matter", "description", "special-block", "yaml", "multi-line"]
+draft: false
+---
+
+Post content.
