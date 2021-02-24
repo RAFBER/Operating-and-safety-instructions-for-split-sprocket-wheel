@@ -7,4 +7,4 @@ permalink: /
 ---
 
 
-# logo: "/assets/images/FLSmidth_logo.png"
+![FLSmidth logo](/assets/images/FLSmidth_logo.png")
