@@ -12,12 +12,11 @@ aux_links:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: | "FLSmidth MAAG Gear Sp. z o.o. |
-| ul. Stoczniowa 2
-                | 
-                | 
-                | Tel +48 55 881 11 11 • Faks +48 55 881 11 12
-                | mge@FLSmidthMaagGear.com • www.FLSmidthMaagGear.com" 
+footer_content: |+
+                 FLSmidth MAAG Gear Sp. z o.o. 
+                 ul. Stoczniowa 2
+                 Tel +48 55 881 11 11 • Faks +48 55 881 11 12
+                 mge@FLSmidthMaagGear.com • www.FLSmidthMaagGear.com
 
 
 
