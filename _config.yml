@@ -1,9 +1,9 @@
-name: RaBpl
+name: RAFBER
 title: # logo: "/assets/images/FLSmidth_logo.png"
 description: Operating-and-safety-instructions-for-split-sprocket-wheel
 remote_theme: RAFBER/just-the-docs
 
-color_scheme: RaB-pl
+color_scheme: light
 
 aux_links:
   "Source repository on GitHub":
