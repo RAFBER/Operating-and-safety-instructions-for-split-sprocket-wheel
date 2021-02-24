@@ -6,5 +6,6 @@ description: "Operating-and-safety-instructions-for-split-sprocket-wheel"
 permalink: /
 ---
 
+# Introduction
 
-![FLSmidth logo](/assets/images/FLSmidth_logo.png")
+  ![FLSmidth logo](../assets/images/FLSmidth_logo.png")
