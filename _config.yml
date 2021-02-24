@@ -1,0 +1,22 @@
+name: RaB-pl
+title: # logo: "/assets/images/FLSmidth_logo.png"
+description: Operating-and-safety-instructions-for-split-sprocket-wheel
+remote_theme: RAFBER/just-the-docs
+
+color_scheme: RaB-pl
+
+aux_links:
+  "Source repository on GitHub":
+    - "//github.com/RAFBER/Operating-and-safety-instructions-for-split-sprocket-wheel"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "FLSmidth MAAG Gear Sp. z o.o."
+                "ul. Stoczniowa 2"
+                "82-300 Elbląg • Polska"
+                "Tel +48 55 881 11 11 • Faks +48 55 881 11 12"
+                "mge@FLSmidthMaagGear.com • www.FLSmidthMaagGear.com"
+
+
+
