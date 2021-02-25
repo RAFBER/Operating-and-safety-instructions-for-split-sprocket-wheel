@@ -11,11 +11,11 @@ permalink: /
 ## For gearbox auxiliary drive
 &nbsp;  
 &nbsp;
-&nbsp;
 
 
 ![Front_page_image](./assets/images/Front_page_image.png){: style="width: 290px;"}
-
+&nbsp;
+&nbsp;
 
 Original operating instructions  
 Issued by: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**FLSmidth MAAG Gear Sp. z o.o., Elblag**  
