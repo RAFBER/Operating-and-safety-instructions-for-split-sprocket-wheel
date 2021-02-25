@@ -12,7 +12,6 @@ permalink: /
 &nbsp;  
 &nbsp;
 
-
 ![Front_page_image](./assets/images/Front_page_image.png){: style="width: 290px;"}
 &nbsp;
 &nbsp;
