@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Imprint
 nav_order: 1
 description: "Operating-and-safety-instructions-for-split-sprocket-wheel"
 permalink: /
@@ -9,5 +9,11 @@ permalink: /
 # Operating and safety instructions for split sprocket wheel supplied by customer
 ## For gearbox auxiliary drive
 
-![Front_page_image](./assets/images/Front_page_image.png){: style="width: 400px;"}
+![Front_page_image](./assets/images/Front_page_image.png){: style="width: 300px;"}
 
+
+Original operating instructions
+Issued by:	FLSmidth MAAG Gear Sp. z o.o., Elblag  
+Author:	Rafal Bertolassi   
+First edition:	August 2019 / en  
+These operating instructions are protected by copyright. Distribution without the con-sent of MAAG Gear Sp. z o.o. is prohibited.
