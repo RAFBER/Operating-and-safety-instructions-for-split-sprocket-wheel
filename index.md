@@ -7,9 +7,12 @@ permalink: /
 ---
 
 # Operating and safety instructions for split sprocket wheel supplied by customer
+---------------------------------------------------------------------------------
 ## For gearbox auxiliary drive
+  
 
-![Front_page_image](./assets/images/Front_page_image.png){: style="width: 300px;"}
+
+![Front_page_image](./assets/images/Front_page_image.png){: style="width: 290px;"}
 
 
 Original operating instructions  
@@ -17,5 +20,8 @@ Issued by:	    **FLSmidth MAAG Gear Sp. z o.o., Elblag**
 Author:         **Rafal Bertolassi**   
 First edition:	**August 2019 / en**  
 Doc. No. 	    **60014185-en RevA**   
+Doc. name:      **Operating ands afety instructions for split sprocket wheel**
+  
+  
 These operating instructions are protected by copyright. Distribution without the consent  
 of FLSmidth MAAG Gear Sp. z o.o. is prohibited.
