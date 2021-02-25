@@ -12,8 +12,10 @@ permalink: /
 ![Front_page_image](./assets/images/Front_page_image.png){: style="width: 300px;"}
 
 
-Original operating instructions
-Issued by:	FLSmidth MAAG Gear Sp. z o.o., Elblag  
-Author:	Rafal Bertolassi   
-First edition:	August 2019 / en  
-These operating instructions are protected by copyright. Distribution without the con-sent of MAAG Gear Sp. z o.o. is prohibited.
+Original operating instructions  
+Issued by:	    **FLSmidth MAAG Gear Sp. z o.o., Elblag**  
+Author:         **Rafal Bertolassi**   
+First edition:	**August 2019 / en**  
+Doc. No. 	    **60014185-en RevA**   
+These operating instructions are protected by copyright. Distribution without the consent  
+of FLSmidth MAAG Gear Sp. z o.o. is prohibited.
