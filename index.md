@@ -6,5 +6,9 @@ description: "Operating-and-safety-instructions-for-split-sprocket-wheel"
 permalink: /
 ---
 
-# Introduction
+# Operating and safety instructions for split sprocket wheel supplied by customer
+
+## For gearbox auxiliary drive
+
+![Front_page_image](./assets/images/Front_page_image.png){: style="width: 300px;"}
 
