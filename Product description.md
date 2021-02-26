@@ -20,7 +20,7 @@ nav_order: 5
 
 ## Structure of the gearbox equipped with auxiliary drive
 
-![Meaning of the symbols](/assets/images/Caught_up_and_entangle_hazard.png)
+![Meaning of the symbols](/assets/images/Caught_up_and_entangle_hazard.png){: style="width: 600px;"}
 
 ![Meaning of the symbols](/assets/images/Fig.3-1_Gearbox_equipped_with_auxiliary_drive.png){: style="width: 500px;"}  
 *Fig. 3-1 Gearbox equipped with auxiliary drive*
@@ -35,7 +35,7 @@ nav_order: 5
 
 ## Structure of the auxiliary drive
 
-![Meaning of the symbols](/assets/images/Caught_up_and_entangle_hazard_01.png)
+![Meaning of the symbols](/assets/images/Caught_up_and_entangle_hazard_01.png){: style="width: 600px;"}
 
 ![Meaning of the symbols](/assets/images/Fig.3-2_Structure_of_auxiliary_drive.png){: style="width: 500px;"}  
 *Fig. 3-2 Structure of auxiliary drive*
@@ -61,6 +61,6 @@ Split sprocket wheel gives the possibility to operate drive transmission without
 
 ![Meaning of the symbols](/assets/images/Notice.png)
 
-![Meaning of the symbols](/assets/images/Cutting_and_impact_hazard_01.png)
+![Meaning of the symbols](/assets/images/Cutting_and_impact_hazard_01.png){: style="width: 600px;"}
 
 
