@@ -59,7 +59,7 @@ The auxiliary drive transmits rotation torque to gearbox input shaft by split sp
 ## Function of the split sprocket wheel
 Split sprocket wheel gives the possibility to operate drive transmission without disassembly of the coupling while maintenance operation only.
 
-![Meaning of the symbols](/assets/images/Notice.png)
+![Meaning of the symbols](/assets/images/Notice.png){: style="width: 600px;"}
 
 ![Meaning of the symbols](/assets/images/Cutting_and_impact_hazard_01.png){: style="width: 600px;"}
 
