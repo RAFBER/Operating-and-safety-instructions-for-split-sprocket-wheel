@@ -103,13 +103,13 @@ The following symbols are used in these instructions:
 A signal word always follows the danger symbol.  
 The following signal words are used in these instructions:  
 
-**DANGER** 	Warns that an immediate danger exists. Failure to take action **will** lead to death or serious injuries.  
+**DANGER** 	&nbsp; &nbsp; &nbsp; &nbsp; Warns that an immediate danger exists. Failure to take action **will** lead to death or serious injuries.  
 
-**WARNING**	Warns that a potential danger exists. Failure to take action **can** lead to death or serious injuries.  
+**WARNING**	&nbsp; &nbsp; &nbsp;Warns that a potential danger exists. Failure to take action **can** lead to death or serious injuries.  
 
-**CAUTION**	Warns of a dangerous situation. Failure to take action **can** lead to minor injuries.  
+**CAUTION**	&nbsp; &nbsp; &nbsp; Warns of a dangerous situation. Failure to take action **can** lead to minor injuries.  
 
-**NOTICE**	Warns of a damaging situation. Failure to take action **can** lead to damage to the product or the surrounding area.
+**NOTICE**	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Warns of a damaging situation. Failure to take action **can** lead to damage to the product or the surrounding area.
 
 ### Symbols and markings
 => The arrow indicates that action is required.
