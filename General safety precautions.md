@@ -42,8 +42,9 @@ The following items of safety equipment are required for safe operation of the g
 * Gearbox monitoring (Programmable logic controller)  
 
 ### Emergency stop buttons
-As an incomplete machine, the gearbox does not have its own Emergency stop but-tons.  
-=> Integrate the gearbox into the Emergency stop concept of the overruling ma-chine.  
+As an incomplete machine, the gearbox does not have its own Emergency stop buttons.  
+
+=> Integrate the gearbox into the Emergency stop concept of the overruling machine.  
 => Integrate the gearbox so that the power to at least the following components is interrupted when pressing an emergency stop button.
 - Drive motor, auxiliary drive motor (If installed)
 - Pump motors
@@ -58,17 +59,21 @@ As an incomplete machine, the gearbox is not equipped with guard covers to preve
 
 ### Gearbox monitoring
 As an incomplete machine, the gearbox does not have its own programmable logic controller (PLC) for monitoring and operation.  
-=> Integrate the gearbox and its instruments into the main controller (PLC) of the cement factory or into the intermediate programmable logic controller (PLC) of the mill, to protect the gearbox from impermissible operating conditions and im-proper operation.  
+
+=> Integrate the gearbox and its instruments into the main controller (PLC) of the cement factory or into the intermediate programmable logic controller (PLC) of the mill, to protect the gearbox from impermissible operating conditions and im-proper operation. 
+
 The gearbox is provided with the following instruments for monitoring:  
 * Resistance thermometer for measuring the tilt-pad temperature
 * Resistance thermometer for measuring the oil outlet temperature
 * Resistance thermometers for measuring the bearing temperatures at the bevel gear stage  
 * Vibration sensors for measuring vibrations of the housing
-* Flow meter for measuring the oil flow at the gearbox inlet (optional)  
+* Flow meter for measuring the oil flow at the gearbox inlet (optional)
+
 Other instruments for monitoring the gearbox can be found:
 * At the oil supply unit
 * At the suction pump (optional component)
 * At the auxiliary drive (optional component)  
+
 Since the gearbox monitoring is also dependent on other components, the functions of the instruments and the requirements of the programmable logic controller (PLC) are described in depth in the control and monitoring description and/or the Interlock-ing and Monitoring Table.
 
 ### Requirements of the personnel
