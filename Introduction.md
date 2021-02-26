@@ -8,7 +8,7 @@ nav_order: 3
 # Introduction
 {: .no_toc}
 
-1. TOC
+TOC
 {:toc}
 
 ### This chapter tells you:
