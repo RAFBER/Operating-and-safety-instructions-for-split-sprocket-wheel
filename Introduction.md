@@ -8,7 +8,7 @@ nav_order: 3
 # Introduction
 {: .no_toc}
 
-TOC
+1. TOC
 {:toc}
 
 ### This chapter tells you:
@@ -22,13 +22,16 @@ TOC
 
 ## Contact information  
 &nbsp;
+
 **Telephone numbers**  
+
+Head office: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +48 55 881 11 11  
+Customer service (24/7): &nbsp;&nbsp;+00800 357 643 84  
+Spare parts sales: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+48 55 881 11 11  
 &nbsp;
-Head office: &nbsp; &nbsp; +48 55 881 11 11  
-Customer service (24/7): &nbsp;+00800 357 643 84
-Spare parts sales:	+48 55 881 11 11  
-&nbsp;
+
 **Fax numbers**
+
 Head office:	+48 55 881 11 12
 Customer service:	+48 55 881 11 12
 Spare parts sales:	+48 55 881 11 12
