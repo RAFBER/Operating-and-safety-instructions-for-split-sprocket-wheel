@@ -20,9 +20,9 @@ nav_order: 5
 
 ## Structure of the gearbox equipped with auxiliary drive
 
-![Meaning of the symbols](/assets/images/Caught_up_and_entangle_hazard.png){: style="width: 600px;"}
+![Caught up and entangle hazard](/assets/images/Caught_up_and_entangle_hazard.png){: style="width: 600px;"}
 
-![Meaning of the symbols](/assets/images/Fig.3-1_Gearbox_equipped_with_auxiliary_drive.png){: style="width: 500px;"}  
+![Gearbox and auxiliary drive](/assets/images/Fig.3-1_Gearbox_equipped_with_auxiliary_drive.png){: style="width: 500px;"}  
 *Fig. 3-1 Gearbox equipped with auxiliary drive*
 
 **Legend***  
@@ -34,10 +34,12 @@ nav_order: 5
 **Auxiliary drive, chain and rotating parts cover supplied and mounted by customer*
 
 ## Structure of the auxiliary drive
+&nbsp;
 
-![Meaning of the symbols](/assets/images/Caught_up_and_entangle_hazard_01.png){: style="width: 600px;"}
+![Caught up and entangle hazard](/assets/images/Caught_up_and_entangle_hazard_01.png){: style="width: 600px;"}
+&nbsp;
 
-![Meaning of the symbols](/assets/images/Fig.3-2_Structure_of_auxiliary_drive.png){: style="width: 500px;"}  
+![Caught up and entangle hazard](/assets/images/Fig.3-2_c.png){: style="width: 500px;"}  
 *Fig. 3-2 Structure of auxiliary drive*
 
 **Legend***
@@ -59,8 +61,25 @@ The auxiliary drive transmits rotation torque to gearbox input shaft by split sp
 ## Function of the split sprocket wheel
 Split sprocket wheel gives the possibility to operate drive transmission without disassembly of the coupling while maintenance operation only.
 
-![Meaning of the symbols](/assets/images/Notice.png){: style="width: 600px;"}
+![Notice](/assets/images/Notice.png){: style="width: 600px;"}
 
-![Meaning of the symbols](/assets/images/Cutting_and_impact_hazard_01.png){: style="width: 600px;"}
+![Cutting and impact hazard](/assets/images/Cutting_and_impact_hazard_01.png){: style="width: 600px;"}
+
+![Split sprocket wheel](/assets/images/Fig.3-3_Split_sprocket_wheel_mounted_on_the_coupling_hub.png){: style="width: 500px;"} 
 
 
+
+*Fig. 3-3 Split sprocket wheel mounted on the coupling hub*  
+
+**Legend***
+1. Split sprocket wheel
+2. Gearbox inlet shaft
+3. Screws  
+4. Coupling hub  
+			
+
+**Split sprocket wheel and screws supplied and mounted by customer*
+
+Split sprocket wheel (1) is mounted on coupling hub (2) by screws (3).
+
+![Meaning of the symbols](/assets/images/Notice_1.png){: style="width: 600px;"}
