@@ -97,7 +97,7 @@ Except for the general safety precautions, the warnings in these instructions al
 ### Meaning of the symbols
 The following symbols are used in these instructions:
 
-  ![Meaning of the symbols](/assets/images/Meaning_of_the_symbols.png) 
+![Meaning of the symbols](/assets/images/Meaning_of_the_symbols.png) 
 
 ### Meaning of the signal words
 A signal word always follows the danger symbol.  

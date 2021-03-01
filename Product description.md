@@ -28,8 +28,8 @@ nav_order: 5
 **Legend***  
 1. Gearbox
 2. Auxiliary drive
-3. Coupling
-4. Chain and rotating parts cover
+3. Chain and rotating parts cover
+4. Coupling
 
 **Auxiliary drive, chain and rotating parts cover supplied and mounted by customer*
 
@@ -39,16 +39,16 @@ nav_order: 5
 ![Caught up and entangle hazard](/assets/images/Caught_up_and_entangle_hazard_01.png){: style="width: 600px;"}
 &nbsp;
 
-![Caught up and entangle hazard](/assets/images/Fig.3-2_c.png){: style="width: 500px;"}  
+![Caught up and entangle hazard](/assets/images/Fig.3-2_Structure_of_auxiliary_drive.png){: style="width: 500px;"}  
 *Fig. 3-2 Structure of auxiliary drive*
 
 **Legend***
-1. Split sprocket wheel
-2. Chain
-3. Chain and rotating parts cover
-4. Electric motor
-5. Auxiliary drive gearbox
-6. Driving sprocket wheel
+1. Electric motor
+2. Auxiliary drive gearbox
+3. Driving sprocket wheel
+4. Chain
+5. Split sprocket wheel
+6. Chain and rotating parts cover
 
 **Pos. 1-6 supplied and mounted by customer*
 
@@ -80,6 +80,6 @@ Split sprocket wheel gives the possibility to operate drive transmission without
 
 **Split sprocket wheel and screws supplied and mounted by customer*
 
-Split sprocket wheel (1) is mounted on coupling hub (2) by screws (3).
+Split sprocket wheel (1) is mounted on coupling hub (4) by screws (3).
 
 ![Meaning of the symbols](/assets/images/Notice_1.png){: style="width: 600px;"}
