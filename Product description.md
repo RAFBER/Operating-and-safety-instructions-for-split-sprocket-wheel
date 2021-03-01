@@ -34,7 +34,6 @@ nav_order: 5
 **Auxiliary drive, chain and rotating parts cover supplied and mounted by customer*
 
 ## Structure of the auxiliary drive
-&nbsp;
 
 ![Caught up and entangle hazard](/assets/images/Caught_up_and_entangle_hazard_01.png){: style="width: 600px;"}
 &nbsp;

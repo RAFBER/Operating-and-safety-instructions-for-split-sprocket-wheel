@@ -20,7 +20,7 @@ Original operating instructions
 Issued by: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**FLSmidth MAAG Gear Sp. z o.o., Elblag**  
 Author: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Rafal Bertolassi**   
 First edition: &nbsp; &nbsp; &nbsp; &nbsp;**August 2019 / en**  
-Doc. No.: &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;**60014185-en RevA**   
+Doc. No.: &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;**60014185-en RevB**   
 Doc. name: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Operating and safety instructions for split sprocket wheel**
 &nbsp;
 
